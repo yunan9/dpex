@@ -8,6 +8,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly(libs.yunan9.commons)
+    compileOnly(libs.bundles.yunan9.series)
+
     compileOnly(libs.jetbrains.annotations)
 }
